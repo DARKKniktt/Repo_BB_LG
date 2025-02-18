@@ -1,5 +1,5 @@
 # Repo_BB_LG
 
-Erstellen eines einfachen Rechenprogramms von Lukas und Barbara
-Flussdiagramm begonnen am 1.02.2025, beendet am 18.02.2025
-Programmieren, Lukas in Python, Barbara in C++
+Erstellen eines einfachen Rechenprogramms von Lucas in Python und von Barbara in C++.
+
+Flussdiagramm begonnen am 17.02.2025, beendet am 18.02.2025
